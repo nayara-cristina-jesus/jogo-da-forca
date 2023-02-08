@@ -19,9 +19,10 @@ https://replit.com/
 <br>
 <br>
 
-:mag: Fonte: <br>
+:mag: Fontes: <br>
 https://pt.wikipedia.org/ <br>
 https://en.wikipedia.org/ <br>
 https://www.flaticon.com/br/icone-gratis/ <br>
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md <br>
+https://www.youtube.com/watch?v=8ext9G7xspg
 
