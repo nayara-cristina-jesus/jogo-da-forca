@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=8ext9G7xspg
 
 ## 
 :round_pushpin: Rio de Janeiro, Brazil <br>
+:desktop_computer: Computer Science <br>
 :woman_technologist: Nayara Cristina Jesus <br>
 :globe_with_meridians: https://github.com/nayara-cristina-jesus
 
